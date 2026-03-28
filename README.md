@@ -1,4 +1,4 @@
-######### Olá, me chamo Getúlio
+##Olá, me chamo Getúlio
 
 <!--
 **gtuliobr/gtuliobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
