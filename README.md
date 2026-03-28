@@ -15,8 +15,8 @@ Sou Técnico em Redes de Computadores e graduando em Análise e Desenvolvimento 
 
 ## 📊 Estatísticas
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark" />
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Getulio-Rodolfo&show_icons=true&theme=github_dark" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Getulio-Rodolfo&theme=github-dark" />
 
 ---
 
@@ -36,7 +36,7 @@ Busco minha primeira oportunidade na área de tecnologia para desenvolver minhas
 
 ## 📫 Contato
 
-- Email: seuemail@email.com  
-- LinkedIn: https://linkedin.com/in/seu-usuario  
+- Email: getulio.r.braga@gmail.com 
+   
 
 ---
