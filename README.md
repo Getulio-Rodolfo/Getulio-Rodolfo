@@ -15,7 +15,7 @@ Sou Técnico em Redes de Computadores e graduando em Análise e Desenvolvimento 
 
 ## 📊 Estatísticas
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Getulio-Rodolfo&show_icons=true&theme=github_dark" />
+<!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Getulio-Rodolfo&show_icons=true&theme=github_dark" />-->
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Getulio-Rodolfo&theme=github-dark" />
 
 ---
